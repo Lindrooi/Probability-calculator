@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Signifikansanalys</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="settings_header">Settings</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Settings Preferences -->
+    <string name="column1_title">Column 1</string>
+    <string name="column2_title">Column 2</string>
+    <string name="row1_title">Row 1</string>
+    <string name="row2_title">Row 2</string>
+    <string name="valueList">Significance level</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+</resources>
